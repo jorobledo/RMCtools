@@ -2,4 +2,6 @@
 
 Assisting Reverse Montecarlo and Molecular Dynamics simulations on borate glasses with Python code. 
 
-Develop Jose. aaaa
+References:
+
+- [RMC webpage](https://www.szfki.hu/~nphys/rmc++/opening.html)
