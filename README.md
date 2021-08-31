@@ -8,3 +8,7 @@ References:
 - [LAMMPS webpage](https://www.lammps.org/)
 
 Contributors:
+ - José Robledo
+ - Mauricio Morán
+ - Eloisa Cuestas
+ - Mauricio Rodriguez Chialanza
