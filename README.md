@@ -1,3 +1,3 @@
 # RMCtools
 
-Assisting Reverse Montecarlo and Molecular Dynamics simulations with Python code. 
+Assisting Reverse Montecarlo and Molecular Dynamics simulations on borate glasses with Python code. 
