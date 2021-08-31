@@ -1,3 +1,3 @@
 # RMCtools
 
-Reverse Montecarlo and Molecular Dynamics
+Assisting Reverse Montecarlo and Molecular Dynamics simulations with Python code. 
