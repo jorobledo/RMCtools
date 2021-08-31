@@ -5,3 +5,4 @@ Assisting Reverse Montecarlo and Molecular Dynamics simulations on borate glasse
 References:
 
 - [RMC webpage](https://www.szfki.hu/~nphys/rmc++/opening.html)
+- [LAMMPS webpage](https://www.lammps.org/)
