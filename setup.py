@@ -1,6 +1,6 @@
 from setuptools import setup
 
-with open("README.md", "r") as fp:
+with open("README.rst", "r") as fp:
     LONG_DESCRIPTION = fp.read()
 
 REQUIREMENTS = ["numpy", "gemmi", "pyxtal", "matplotlib"]
