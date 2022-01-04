@@ -1,5 +1,7 @@
-RMCtools
-========
+
+.. image :: https://raw.githubusercontent.com/jorobledo/RMCtools/main/img/logo.png
+ :target: https://github.com/jorobledo/RMCtools
+ :width: 600
 
 |Documentation-status|
 
@@ -7,8 +9,8 @@ Assisting Reverse Montecarlo and Molecular Dynamics simulations on borate glasse
 
 References:
 
-- [RMC webpage](https://www.szfki.hu/~nphys/rmc++/opening.html)
-- [LAMMPS webpage](https://www.lammps.org/)
+- `RMC webpage <https://www.szfki.hu/~nphys/rmc++/opening.html>`_
+- `LAMMPS webpage <https://www.lammps.org/>`_
 
 Contributors:
  - José Robledo
@@ -17,5 +19,5 @@ Contributors:
  - Mauricio Rodriguez Chialanza
 
 .. |Documentation-status| image:: https://readthedocs.org/projects/rmctools/badge/?version=latest
-:target: https://rmctools.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
+ :target: https://rmctools.readthedocs.io/en/latest/?badge=latest
+ :alt: Documentation Status
