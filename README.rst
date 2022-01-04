@@ -22,6 +22,6 @@ Contributors:
  :target: https://rmctools.readthedocs.io/en/latest/?badge=latest
  :alt: Documentation Status
  
--- |Building-status| image:: https://img.shields.io/github/workflow/status/jorobledo/RMCtools/rmctools
+.. |Building-status| image:: https://img.shields.io/github/workflow/status/jorobledo/RMCtools/rmctools
  :target: https://github.com/jorobledo/RMCtools
  :alt: Building Status
