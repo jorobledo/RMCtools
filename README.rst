@@ -15,3 +15,7 @@ Contributors:
  - Mauricio Morán
  - Eloisa Cuestas
  - Mauricio Rodriguez Chialanza
+
+.. |build-status| image:: https://circleci.com/gh/readthedocs/readthedocs.org.svg?style=svg
+    :alt: build status
+    :target: https://circleci.com/gh/readthedocs/readthedocs.org
