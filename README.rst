@@ -1,7 +1,7 @@
 RMCtools
 ========
 
-|build-status|
+|Documentation-status|
 
 Assisting Reverse Montecarlo and Molecular Dynamics simulations on borate glasses with Python code. 
 
@@ -16,6 +16,6 @@ Contributors:
  - Eloisa Cuestas
  - Mauricio Rodriguez Chialanza
 
-.. |build-status| image:: https://circleci.com/gh/readthedocs/readthedocs.org.svg?style=svg
-    :alt: build status
-    :target: https://circleci.com/gh/readthedocs/readthedocs.org
+.. |Documentation-status| image:: https://readthedocs.org/projects/rmctools/badge/?version=latest
+:target: https://rmctools.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status

@@ -6,7 +6,7 @@
 Welcome to RMCtools's documentation!
 ====================================
 
-|build-status|
+|Documentation-status|
 
 .. toctree::
    :maxdepth: 2
@@ -24,6 +24,6 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. |build-status| image:: https://circleci.com/gh/readthedocs/readthedocs.org.svg?style=svg
-    :alt: build status
-    :target: https://circleci.com/gh/readthedocs/readthedocs.org
+.. |Documentation-status| image:: https://readthedocs.org/projects/rmctools/badge/?version=latest
+:target: https://rmctools.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
