@@ -61,7 +61,7 @@ html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 
 html_logo = (
-    "https://raw.githubusercontent.com/jorobledo/RMCtools/main/img/logo.png"
+    "https://raw.githubusercontent.com/jorobledo/RMCtools/main/img/logo_bg.png"
 )
 html_theme_options = {
     "logo_only": True,
