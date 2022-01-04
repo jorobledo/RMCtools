@@ -1,0 +1,5 @@
+RMCtools structure
+==================
+
+.. automodule:: rmctools
+
