@@ -3,7 +3,7 @@
  :target: https://github.com/jorobledo/RMCtools
  :width: 600
 
-|Documentation-status|
+|Documentation-status| |Building-status|
 
 Assisting Reverse Montecarlo and Molecular Dynamics simulations on borate glasses with Python code. 
 
@@ -21,3 +21,7 @@ Contributors:
 .. |Documentation-status| image:: https://readthedocs.org/projects/rmctools/badge/?version=latest
  :target: https://rmctools.readthedocs.io/en/latest/?badge=latest
  :alt: Documentation Status
+ 
+-- |Building-status| image:: https://img.shields.io/github/workflow/status/jorobledo/RMCtools/rmctools
+ :target: https://github.com/jorobledo/RMCtools
+ :alt: Building Status
